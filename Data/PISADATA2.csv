@@ -1,0 +1,323 @@
+﻿year,jurisdiction,country_code,region,reading_score_avg,reading_score_female_avg,reading_score_male_avg,math_scores_avg,math_female_score_avg,math_male_score_avg,science_score_avg,science_female_score_avg,science_male_score_avg,per_diff_heritage_lang,highest_occup_parents_statius_index,econ_soc_cul_index,gdp_per_cap_ppp,income_group,gov_educ_exp_percent_gdp,gov_exp_secondary_educ_per_student,per_2_parents
+2018,Selected countries and jurisdictions,,,487,502,472,489,487,492,489,490,488,14.4,52.3,-0.03,,,,,
+2018,International Average (OECD),OECD,,487,502,472,489,487,492,489,490,488,14.4,52.3,-0.03,,,,,
+2018,Australia,AUS,East Asia & Pacific,503,519,487,491,488,494,503,502,504,22.8,55.8,0.32,51036.40589,High Income,,,..
+2018,Austria,AUT,Europe & Central Asia,484,499,471,499,492,505,490,489,491,22.6,50.8,0.01,56871.2114,High Income,,,87.9
+2018,Belgium,BEL,Europe & Central Asia,493,504,482,508,502,514,499,496,501,20.2,52.4,0.07,52249.57346,High Income,,,73.6
+2018,Brazil,BRA,Latin America & Caribbean,413,426,400,384,379,388,404,404,403,,42.2,-1.1,14940.67261,Upper middle income,,,
+2018,B-S-J-G (China),CHN1,East Asia & Pacific,,,,,,,,,,,,,,,,,
+2018,B-S-J-Z (China),CHN2,East Asia & Pacific,555,562,549,591,586,597,590,584,596,0.3,48.7,-0.67,15602.94147,Upper middle income,,,
+2018,Canada,CAN,North America,520,535,506,512,510,514,518,520,516,28.5,57.5,0.42,50077.79624,High Income,,,..
+2018,Chile,CHL,Latin America & Caribbean,452,462,442,417,414,421,444,442,445,6,43.9,-0.58,24765.23459,High Income,,,..
+2018,Colombia,COL,Latin America & Caribbean,412,417,407,391,381,401,413,407,420,4,41.6,-1.19,14965.89536,Upper middle income,,,
+2018,Czech Republic,CZE,Europe & Central Asia,490,507,474,499,498,501,497,498,496,3.9,49.1,-0.21,40389.35761,High Income,,,85.9
+2018,Denmark,DNK,Europe & Central Asia,501,516,486,509,507,511,493,494,492,12.9,60,0.52,57218.40645,High Income,,,78.2
+2018,Estonia,EST,Europe & Central Asia,523,538,508,523,519,528,530,533,528,5.9,53.5,0.08,36358.02776,High Income,,,84.7
+2018,Finland,FIN,Europe & Central Asia,520,546,495,507,510,504,522,534,510,10.2,55.8,0.3,49373.18396,High Income,,,85
+2018,France,FRA,Europe & Central Asia,493,505,480,495,492,499,493,493,493,13.8,51.5,-0.03,46605.18634,High Income,,,..
+2018,Germany,DEU,Europe & Central Asia,498,512,486,500,496,503,503,504,502,23.5,51.8,-0.1,54456.92926,High Income,,,83.9
+2018,Greece,GRC,Europe & Central Asia,457,479,437,451,451,452,452,457,446,12.9,50.1,-0.11,30354.349,High Income,,,92.1
+2018,Hong Kong,HKG,East Asia & Pacific,524,542,507,551,554,548,517,521,512,36.8,49,-0.51,62513.0323,High Income,3.326519966,22.03149,
+2018,Hungary,HUN,Europe & Central Asia,476,489,463,481,477,486,481,478,484,4.7,50.7,-0.12,31578.7598,High Income,,,..
+2018,Iceland,ISL,Europe & Central Asia,474,494,454,495,500,490,475,479,471,9.5,60.6,0.55,57742.15028,High Income,,,..
+2018,Indonesia,IDN,East Asia & Pacific,371,383,358,379,383,374,396,399,393,66.9,37.4,-1.57,11639.86506,Upper middle income,,,
+2018,Ireland,IRL,Europe & Central Asia,518,530,506,500,497,503,496,497,495,11.9,52.7,0.13,84459.65164,High Income,,,..
+2018,Israel,ISR,Middle East & North Africa,470,493,445,463,467,458,462,471,452,11.1,60.5,0.35,40261.33803,High Income,,,
+2018,Italy,ITA,Europe & Central Asia,476,489,464,487,479,494,468,466,470,7.7,47.3,-0.22,42816.20297,High Income,,,85.1
+2018,Japan,JPN,East Asia & Pacific,504,514,493,527,522,532,529,528,531,—,52.2,-0.09,41335.52322,High Income,,,..
+2018,Korea,KOR,East Asia & Pacific,514,526,503,526,524,528,519,517,521,5.2,52.5,0.07,42136.08039,High Income,,,
+2018,Latvia,LVA,Europe & Central Asia,479,495,462,496,493,500,487,491,483,22.4,53.5,0,30644.60829,High Income,,,70.5
+2018,Lithuania,LTU,Europe & Central Asia,476,496,457,481,482,480,482,485,479,5.4,53.1,0.03,35831.86282,High Income,,,72
+2018,Luxembourg,LUX,Europe & Central Asia,470,485,456,483,480,487,477,479,475,46.3,51.4,0.01,116786.48,High Income,,,..
+2018,Mexico,MEX,Latin America & Caribbean,420,426,415,409,403,415,419,415,424,‡,40.8,-1.19,20396.47771,Upper middle income,,,..
+2018,Netherlands,NLD,Europe & Central Asia,485,499,470,519,519,520,503,508,499,12.7,55.2,0.28,57565.19756,High Income,,,87.4
+2018,New Zealand,NZL,East Asia & Pacific,506,520,491,494,490,499,508,508,509,17.4,56.2,0.16,42810.83751,High Income,,,..
+2018,Norway,NOR,Europe & Central Asia,499,523,476,501,505,497,490,496,485,—,61.6,0.54,67640.18138,High Income,,,78.9
+2018,Poland,POL,Europe & Central Asia,512,528,495,516,515,516,511,511,511,2.9,49.8,-0.14,31834.4091,High Income,,,90.1
+2018,Portugal,PRT,Europe & Central Asia,492,504,480,492,488,497,492,489,494,4.3,49.5,-0.39,34340.71335,High Income,,,78.6
+2018,Russia,RUS,Europe & Central Asia,479,491,466,488,485,490,478,478,477,12.2,55.7,0.13,28763.51663,Upper middle income,,,
+2018,Slovak Republic,SVK,Europe & Central Asia,458,475,441,486,484,488,464,467,461,18.5,48.6,-0.21,32574.82314,High Income,,,..
+2018,Slovenia,SVN,Europe & Central Asia,495,517,475,509,509,509,507,512,502,9.7,52.3,0.07,38749.25198,High Income,,,87.2
+2018,Spain,ESP,Europe & Central Asia,—,—,—,481,478,485,483,482,484,22.5,48.6,-0.12,40482.58901,High Income,,,82.8
+2018,Sweden,SWE,Europe & Central Asia,506,523,489,502,503,502,499,503,496,—,59.5,0.36,53746.79917,High Income,,,78
+2018,Switzerland,CHE,Europe & Central Asia,484,500,469,515,512,519,495,495,495,29.7,52.6,-0.01,69357.48606,High Income,,,..
+2018,Thailand,THA,East Asia & Pacific,393,411,372,419,426,410,426,435,415,11.7,34.4,-1.3,18513.29357,Upper middle income,,,
+2018,Turkey,TUR,Europe & Central Asia,466,478,453,454,451,456,468,472,465,8.8,37.7,-1.15,28139.14376,Upper middle income,,,..
+2018,United Kingdom,GBR,Europe & Central Asia,504,514,494,502,496,508,505,503,506,18.6,58,0.27,46956.07776,High Income,,,..
+2018,United States,USA,North America,505,517,494,478,474,482,502,502,503,19,55.7,0.11,62840.02024,High Income,,,69.1
+2015,Selected countries and jurisdictions,,,490,504,477,487,483,491,491,489,492,15.1,51.5,-0.06,,,,,
+2015,International Average (OECD),OECD,,490,504,477,487,483,491,491,489,492,15.1,51.5,-0.06,,,,,
+2015,Australia,AUS,East Asia & Pacific,503,519,487,494,491,497,510,509,511,21.6,57.5,0.27,46276.15069,High Income,5.31127024,17.13625,..
+2015,Austria,AUT,Europe & Central Asia,485,495,475,497,483,510,495,486,504,22.8,51.3,0.09,49879.26647,High Income,5.45658016,27.293,81.3
+2015,Belgium,BEL,Europe & Central Asia,499,507,491,507,500,514,502,496,508,19.1,52.7,0.16,46213.26653,High Income,6.45157003,..,73.8
+2015,Brazil,BRA,Latin America & Caribbean,407,419,395,377,370,385,401,399,403,10.3,42.7,-0.96,14744.11291,Upper middle income,6.24105978,21.52655,
+2015,B-S-J-G (China),CHN1,East Asia & Pacific,494,503,486,531,528,534,518,513,522,4.8,41.9,-1.07,12978.76857,,,,
+2015,B-S-J-Z (China),CHN2,East Asia & Pacific,,,,,,,,,,,,,,Upper middle income,,,
+2015,Canada,CAN,North America,527,540,514,516,511,520,528,527,528,25.9,58.1,0.53,44671.44068,High Income,..,..,..
+2015,Chile,CHL,Latin America & Caribbean,459,465,453,423,413,432,447,440,454,6.7,44.6,-0.49,22688.01003,High Income,4.87530994,16.63683,..
+2015,Colombia,COL,Latin America & Caribbean,425,432,417,390,384,395,416,411,421,8,42.6,-0.99,13265.79726,Upper middle income,4.47038984,15.68956,#N/A
+2015,Czech Republic,CZE,Europe & Central Asia,487,501,475,492,489,496,493,488,497,3.6,47.5,-0.21,33691.42424,High Income,5.78884983,23.6677,84.9
+2015,Denmark,DNK,Europe & Central Asia,500,511,489,511,506,516,502,499,505,13.9,56.2,0.59,49058.50107,High Income,..,..,72.7
+2015,Estonia,EST,Europe & Central Asia,519,533,505,520,517,522,534,533,536,12.7,52.3,0.05,29397.12984,High Income,5.10685015,22.25324,83.9
+2015,Finland,FIN,Europe & Central Asia,526,551,504,511,515,507,531,541,521,9,53,0.25,42509.13131,High Income,7.03208017,25.80386,86.7
+2015,France,FRA,Europe & Central Asia,499,514,485,493,490,496,495,494,496,14.3,51.3,-0.14,40860.91122,High Income,..,26.46082,77.1
+2015,Germany,DEU,Europe & Central Asia,509,520,499,506,498,514,509,504,514,18.9,51.5,0.12,47683.7886,High Income,4.83498001,23.00137,82.8
+2015,Greece,GRC,Europe & Central Asia,467,486,449,454,454,454,455,459,451,13.1,50,-0.08,26902.52532,High Income,..,23.52266,91.6
+2015,Hong Kong,HKG,East Asia & Pacific,527,541,513,548,547,549,523,524,523,10,49.4,-0.53,56408.93627,High Income,3.262120008,20.3016,
+2015,Hungary,HUN,Europe & Central Asia,470,482,457,477,473,481,477,475,478,2.8,47.6,-0.23,26668.04088,High Income,4.51866007,21.17405,76.3
+2015,Iceland,ISL,Europe & Central Asia,482,502,460,488,489,487,473,475,472,9.8,60.4,0.73,48854.34544,High Income,7.51290989,20.35202,80.5
+2015,Indonesia,IDN,East Asia & Pacific,397,409,386,386,387,385,403,405,401,57.3,32.7,-1.87,10247.20638,Upper middle income,3.583600044,10.52216,
+2015,Ireland,IRL,Europe & Central Asia,521,527,515,504,495,512,503,497,508,11.2,52.8,0.16,69056.04604,High Income,3.75829005,16.4223,82.1
+2015,Israel,ISR,Middle East & North Africa,479,490,467,470,466,474,467,464,469,28.6,59.8,0.16,35436.81087,High Income,5.86730003,18.64104,#N/A
+2015,Italy,ITA,Europe & Central Asia,485,493,477,490,480,500,481,472,489,9.5,49.7,-0.07,36909.32837,High Income,4.07362986,22.90489,87.4
+2015,Japan,JPN,East Asia & Pacific,516,523,509,532,525,539,538,532,545,—,50.6,-0.18,40396.24321,High Income,..,..,87.6
+2015,Korea,KOR,East Asia & Pacific,517,539,498,524,528,521,516,521,511,2,52.1,-0.2,37907.50031,High Income,..,..,#N/A
+2015,Latvia,LVA,Europe & Central Asia,488,509,467,482,483,481,490,496,485,27.1,51,-0.44,24830.92297,High Income,5.31412983,28.27553,70.5
+2015,Lithuania,LTU,Europe & Central Asia,472,492,453,478,479,478,475,479,472,4.9,51.6,-0.06,28823.81809,High Income,4.22988987,17.42974,75.3
+2015,Luxembourg,LUX,Europe & Central Asia,481,492,471,486,480,491,483,479,487,46.9,48.8,0.07,103750.7751,High Income,3.91820002,19.40807,83.5
+2015,Mexico,MEX,Latin America & Caribbean,423,431,416,408,404,412,416,412,420,5.3,40,-1.22,18284.88284,Upper middle income,5.23523998,15.20393,..
+2015,Netherlands,NLD,Europe & Central Asia,503,515,491,512,511,513,509,507,511,18.6,54.5,0.16,50302.06775,High Income,5.34815979,22.73967,86.4
+2015,New Zealand,NZL,East Asia & Pacific,509,526,493,495,491,499,513,511,516,19,57.4,0.17,37530.03908,High Income,6.33738995,20.84411,..
+2015,Norway,NOR,Europe & Central Asia,513,533,494,502,503,501,498,497,500,13.1,61.8,0.48,60385.11676,High Income,7.56933022,26.35316,78.4
+2015,Poland,POL,Europe & Central Asia,506,521,491,504,499,510,501,498,504,6.8,45.7,-0.39,26856.28883,High Income,4.81226015,22.34623,89.4
+2015,Portugal,PRT,Europe & Central Asia,498,507,490,492,487,497,501,496,506,3.1,48.6,-0.39,29668.8592,High Income,4.88554001,27.69333,76.7
+2015,Russia,RUS,Europe & Central Asia,495,507,481,494,491,497,487,485,489,12.8,55.1,0.05,24085.32418,Upper middle income,3.834029913,,
+2015,Slovak Republic,SVK,Europe & Central Asia,453,471,435,475,472,478,461,461,460,13.8,47.8,-0.11,29924.12155,High Income,4.59954023,21.11401,87.2
+2015,Slovenia,SVN,Europe & Central Asia,505,528,484,510,508,512,513,516,510,10.5,52.3,0.03,31636.75003,High Income,4.90953016,23.9989,85.2
+2015,Spain,ESP,Europe & Central Asia,496,506,485,486,478,494,493,489,496,19,48,-0.51,34912.47613,High Income,4.28657007,18.49989,82.4
+2015,Sweden,SWE,Europe & Central Asia,500,520,481,494,495,493,493,496,491,—,57.7,0.33,49116.30784,High Income,7.44390011,23.58743,79.5
+2015,Switzerland,CHE,Europe & Central Asia,492,505,480,521,515,527,506,502,508,30.6,53,0.14,63938.97998,High Income,5.1005702,24.45516,87.7
+2015,Thailand,THA,East Asia & Pacific,409,423,392,415,417,414,421,425,416,19.4,33.3,-1.23,15822.35326,Upper middle income,,,
+2015,Turkey,TUR,Europe & Central Asia,428,442,414,420,418,423,425,429,422,12.2,36.7,-1.43,25625.57463,Upper middle income,..,11.56828,93.4
+2015,United Kingdom,GBR,Europe & Central Asia,498,509,487,492,487,498,509,509,510,21,56.4,0.21,42518.14126,High Income,5.55615997,23.05669,75.3
+2015,United States,USA,North America,497,507,487,470,465,474,496,493,500,23,54.1,0.1,56822.51882,High Income,..,21.68055,69.2
+2012,Selected countries and jurisdictions,,,493,512,474,490,485,496,498,498,499,—,,—,,,,,
+2012,International Average (OECD),OECD,,493,512,474,490,485,496,498,498,499,—,,—,,,,,
+2012,Australia,AUS,East Asia & Pacific,512,530,495,504,498,510,521,519,524,—,,—,42826.78958,High Income,4.868999958,16.08962,81.3
+2012,Austria,AUT,Europe & Central Asia,490,508,471,506,494,517,506,501,510,—,,—,46457.34578,High Income,5.480400085,26.71204,83.5
+2012,Belgium,BEL,Europe & Central Asia,509,525,493,515,509,520,505,503,507,—,,—,42290.76205,High Income,..,..,75.1
+2012,Brazil,BRA,Latin America & Caribbean,407,422,390,389,380,397,402,401,402,,,,15046.28988,Upper middle income,5.855100155,19.66737,
+2012,B-S-J-G (China),CHN1,East Asia & Pacific,,,,,,,,,,,,,,,,,
+2012,B-S-J-Z (China),CHN2,East Asia & Pacific,,,,,,,,,,,,,,Upper middle income,,,
+2012,Canada,CAN,North America,523,541,506,518,513,523,525,524,527,—,,—,42290.96541,High Income,..,..,..
+2012,Chile,CHL,Latin America & Caribbean,441,452,430,423,411,436,445,442,448,—,,—,21507.7074,High Income,..,16.45029,..
+2012,Colombia,COL,Latin America & Caribbean,403,412,394,376,364,390,399,390,408,—,,—,12018.35732,Upper middle income,4.370389938,14.67586,#N/A
+2012,Czech Republic,CZE,Europe & Central Asia,493,513,474,499,493,505,508,508,509,—,,—,29047.24644,High Income,4.250860214,24.1497,85.1
+2012,Denmark,DNK,Europe & Central Asia,496,512,481,500,493,507,498,493,504,—,,—,44803.96824,High Income,7.237820148,27.67433,74
+2012,Estonia,EST,Europe & Central Asia,516,538,494,521,518,523,541,543,540,—,,—,26190.55295,High Income,4.682690144,27.10011,80.6
+2012,Finland,FIN,Europe & Central Asia,524,556,494,519,520,517,545,554,537,—,,—,40873.09533,High Income,7.148039818,25.94711,86.5
+2012,France,FRA,Europe & Central Asia,505,527,483,495,491,499,499,500,498,—,,—,37679.12178,High Income,..,26.82868,77.3
+2012,Germany,DEU,Europe & Central Asia,508,530,486,514,507,520,524,524,524,—,,—,43359.61483,High Income,4.956580162,23.04534,83.5
+2012,Greece,GRC,Europe & Central Asia,477,502,452,453,449,457,467,473,460,—,,—,25284.46408,High Income,..,..,94.8
+2012,Hong Kong,HKG,East Asia & Pacific,545,558,533,561,553,568,555,551,558,,,,52234.59232,High Income,3.509609938,17.11454,
+2012,Hungary,HUN,Europe & Central Asia,488,508,468,477,473,482,494,493,496,—,,—,23148.12788,High Income,4.163859844,18.50098,81
+2012,Iceland,ISL,Europe & Central Asia,483,508,457,493,496,490,478,480,477,—,,—,41926.34162,High Income,7.596360207,17.84044,78.5
+2012,Indonesia,IDN,East Asia & Pacific,396,410,382,375,373,377,382,383,380,,,,9713.873158,Upper middle income,3.407480001,10.2787,
+2012,Ireland,IRL,Europe & Central Asia,523,538,509,501,494,509,522,520,524,—,,—,46256.56888,High Income,5.765729904,25.84874,77.2
+2012,Israel,ISR,Middle East & North Africa,486,507,463,466,461,472,470,470,470,—,,—,31693.91787,High Income,5.699810028,18.16251,#N/A
+2012,Italy,ITA,Europe & Central Asia,490,510,471,485,476,494,494,492,495,—,,—,36486.29679,High Income,4.056019783,22.53656,86.9
+2012,Japan,JPN,East Asia & Pacific,538,551,527,536,527,545,547,541,552,—,,—,37191.38595,High Income,3.692260027,..,..
+2012,Korea,KOR,East Asia & Pacific,536,548,525,554,544,562,538,536,539,—,,—,33557.12872,High Income,..,..,#N/A
+2012,Latvia,LVA,Europe & Central Asia,489,516,462,491,493,489,502,510,495,—,,—,21291.23124,High Income,6.582499981,34.982,68.7
+2012,Lithuania,LTU,Europe & Central Asia,477,505,450,479,479,479,496,503,488,—,,—,24645.69354,High Income,4.769229889,18.51143,76.7
+2012,Luxembourg,LUX,Europe & Central Asia,488,503,473,490,477,502,491,483,499,—,,—,91622.17742,High Income,4.090410233,21.60472,88.1
+2012,Mexico,MEX,Latin America & Caribbean,424,435,411,413,406,420,415,412,418,—,,—,17162.92752,Upper middle income,5.103099823,15.32661,..
+2012,Netherlands,NLD,Europe & Central Asia,511,525,498,523,518,528,522,520,524,—,,—,47272.10302,High Income,5.410220146,..,86.8
+2012,New Zealand,NZL,East Asia & Pacific,512,530,495,500,492,507,516,513,518,—,,—,32996.34541,High Income,7.150629997,..,..
+2012,Norway,NOR,Europe & Central Asia,504,528,481,489,488,490,495,496,493,—,,—,65354.77925,High Income,7.374700069,..,82.1
+2012,Poland,POL,Europe & Central Asia,518,539,497,518,516,520,526,527,524,—,,—,23833.2097,High Income,4.811810017,22.38784,87.8
+2012,Portugal,PRT,Europe & Central Asia,488,508,468,487,481,493,489,490,488,—,,—,26438.0163,High Income,4.949409962,27.56725,78.8
+2012,Russia,RUS,Europe & Central Asia,475,495,455,482,483,481,486,489,484,,,,24303.47341,Upper middle income,3.793100119,,
+2012,Slovak Republic,SVK,Europe & Central Asia,463,483,444,482,477,486,471,467,475,—,,—,26933.42222,High Income,3.8677001,18.4171,86.7
+2012,Slovenia,SVN,Europe & Central Asia,481,510,454,501,499,503,514,519,510,—,,—,29042.82027,High Income,5.620230198,29.50126,86.4
+2012,Spain,ESP,Europe & Central Asia,488,503,474,484,476,492,496,493,500,—,,—,31720.12,High Income,4.469339848,21.01442,85.2
+2012,Sweden,SWE,Europe & Central Asia,483,509,458,478,480,477,485,489,481,—,,—,45432.43197,High Income,7.536970139,24.67428,80.6
+2012,Switzerland,CHE,Europe & Central Asia,509,527,491,531,524,537,515,512,518,—,,—,57849.58399,High Income,5.033370018,25.97821,88.6
+2012,Thailand,THA,East Asia & Pacific,441,465,410,427,433,419,444,452,433,,,,14870.97818,Upper middle income,4.536709785,18.40935,
+2012,Turkey,TUR,Europe & Central Asia,475,499,453,448,444,452,463,469,458,—,,—,20616.86987,Upper middle income,..,11.75159,93.4
+2012,United Kingdom,GBR,Europe & Central Asia,499,512,487,494,488,500,514,508,521,—,,—,38311.8972,High Income,..,..,75.8
+2012,United States,USA,North America,498,513,482,481,479,484,497,498,497,—,,—,51610.60528,High Income,..,22.76782,68.1
+2009,Selected countries and jurisdictions,,,490,510,471,492,486,497,498,498,498,—,49,—,,,,,
+2009,International Average (OECD),OECD,,490,510,471,492,486,497,498,498,498,—,49,—,,,,,
+2009,Australia,AUS,East Asia & Pacific,515,533,496,514,509,519,527,528,527,—,53.2,—,40301.95776,High Income,5.085820198,..,82
+2009,Austria,AUT,Europe & Central Asia,470,490,449,496,486,506,494,490,498,—,48.4,—,40957.50075,High Income,5.730249882,29.28391,82.3
+2009,Belgium,BEL,Europe & Central Asia,506,520,493,515,504,526,507,503,510,—,50.1,—,37785.86817,High Income,6.458099842,..,75.4
+2009,Brazil,BRA,Latin America & Caribbean,412,425,397,386,379,394,405,404,407,,42.5,,13269.11857,Upper middle income,5.463550091,20.00857,
+2009,B-S-J-G (China),CHN1,East Asia & Pacific,,,,,,,,,,,,,,,,,
+2009,B-S-J-Z (China),CHN2,East Asia & Pacific,,,,,,,,,,,,,,Upper middle income,,,
+2009,Canada,CAN,North America,524,542,507,527,521,533,529,526,531,—,53.3,—,38794.93072,High Income,4.852640152,..,..
+2009,Chile,CHL,Latin America & Caribbean,449,461,439,421,410,431,447,443,452,—,43.1,—,16159.60523,High Income,4.230649948,16.47026,..
+2009,Colombia,COL,Latin America & Caribbean,413,418,408,381,366,398,402,392,413,—,41.6,—,10258.97084,Upper middle income,4.776519775,14.98617,#N/A
+2009,Czech Republic,CZE,Europe & Central Asia,478,504,456,493,490,495,500,503,498,—,48.1,—,27620.19886,High Income,4.171279907,23.27179,85.8
+2009,Denmark,DNK,Europe & Central Asia,495,509,480,503,495,511,499,494,505,—,50.9,—,40370.22554,High Income,8.448880196,31.87939,73.8
+2009,Estonia,EST,Europe & Central Asia,501,524,480,512,508,516,528,528,527,—,50.2,—,20613.56268,High Income,5.926519871,32.12687,79
+2009,Finland,FIN,Europe & Central Asia,536,563,508,541,539,542,554,562,546,—,53.1,—,38008.81609,High Income,6.459559917,34.36908,87.3
+2009,France,FRA,Europe & Central Asia,496,515,475,497,489,505,498,497,500,—,46.9,—,34711.44508,High Income,..,28.70418,77.6
+2009,Germany,DEU,Europe & Central Asia,497,518,478,513,505,520,520,518,523,—,48.9,—,36851.28209,High Income,4.909510136,23.85787,83.2
+2009,Greece,GRC,Europe & Central Asia,483,506,459,466,459,473,470,475,465,—,48.7,—,30388.3545,High Income,..,..,93.7
+2009,Hong Kong,HKG,East Asia & Pacific,533,550,518,555,547,561,549,548,550,,45.3,,45872.58678,High Income,4.392129898,16.04725,
+2009,Hungary,HUN,Europe & Central Asia,494,513,475,490,484,496,503,503,503,—,47.6,—,20693.72508,High Income,4.958040237,22.1381,80.1
+2009,Iceland,ISL,Europe & Central Asia,500,522,478,507,505,508,496,495,496,—,55.9,—,41937.09391,High Income,7.184249878,20.85266,81.3
+2009,Indonesia,IDN,East Asia & Pacific,402,420,383,371,372,371,383,387,378,,37.1,,8021.747763,Upper middle income,3.525130033,10.9866,
+2009,Ireland,IRL,Europe & Central Asia,496,515,476,487,483,491,508,509,507,—,49.9,—,41653.24373,High Income,6.135089874,28.67095,74.3
+2009,Israel,ISR,Middle East & North Africa,474,495,452,447,443,451,455,456,453,—,53.1,—,27484.87097,High Income,5.494550228,15.9144,#N/A
+2009,Italy,ITA,Europe & Central Asia,486,510,464,483,475,490,489,490,488,—,46.9,—,34636.21643,High Income,4.523719788,25.25676,87.8
+2009,Japan,JPN,East Asia & Pacific,520,540,501,529,524,534,539,545,534,—,51.5,—,33198.61611,High Income,..,..,..
+2009,Korea,KOR,East Asia & Pacific,539,558,523,546,544,548,538,539,537,—,50.1,—,29644.43415,High Income,..,..,#N/A
+2009,Latvia,LVA,Europe & Central Asia,484,507,460,482,481,483,494,497,490,—,47.4,—,16936.93309,High Income,5.55632019,30.33621,66
+2009,Lithuania,LTU,Europe & Central Asia,468,498,439,477,480,474,491,500,483,—,49.5,—,18159.68129,High Income,5.577410221,25.74526,76.1
+2009,Luxembourg,LUX,Europe & Central Asia,472,492,453,489,479,499,484,480,487,—,48.1,—,82340.48949,High Income,..,..,87.3
+2009,Mexico,MEX,Latin America & Caribbean,425,438,413,419,412,425,416,413,419,—,41.3,—,14558.24481,Upper middle income,5.187940121,15.38007,..
+2009,Netherlands,NLD,Europe & Central Asia,508,521,496,526,517,534,522,520,524,—,51.5,—,44599.82056,High Income,5.43156004,..,88
+2009,New Zealand,NZL,East Asia & Pacific,521,544,499,519,515,523,532,535,529,—,52.2,—,30703.83056,High Income,6.280670166,..,..
+2009,Norway,NOR,Europe & Central Asia,503,527,480,498,495,500,500,502,498,—,55.4,—,55417.50224,High Income,7.10337019,28.30466,79.5
+2009,Poland,POL,Europe & Central Asia,500,525,476,495,493,497,508,511,505,—,44.7,—,19260.9242,High Income,4.98913002,23.74239,86.2
+2009,Portugal,PRT,Europe & Central Asia,489,508,470,487,481,493,493,495,491,—,44.1,—,26484.36829,High Income,5.563149929,37.1795,83.1
+2009,Russia,RUS,Europe & Central Asia,459,482,437,468,467,469,478,480,477,,50,,19389.94118,Upper middle income,,,
+2009,Slovak Republic,SVK,Europe & Central Asia,477,503,452,497,495,498,490,491,490,—,45.7,—,23102.81271,High Income,4.006410122,17.8898,88
+2009,Slovenia,SVN,Europe & Central Asia,483,511,456,501,501,502,512,519,505,—,50.3,—,27564.23493,High Income,5.554969788,..,88.3
+2009,Spain,ESP,Europe & Central Asia,481,496,467,483,474,493,488,485,492,—,45.9,—,32123.2508,High Income,4.912000179,27.61234,87
+2009,Sweden,SWE,Europe & Central Asia,497,521,475,494,495,493,495,497,493,—,52.2,—,40318.22625,High Income,6.749710083,31.16577,79
+2009,Switzerland,CHE,Europe & Central Asia,501,520,481,534,524,544,517,512,520,—,50.6,—,51808.24729,High Income,5.041180134,26.9248,89.5
+2009,Thailand,THA,East Asia & Pacific,421,438,400,419,417,421,425,431,418,,37.1,,12191.41348,Upper middle income,3.861939907,8.44554,
+2009,Turkey,TUR,Europe & Central Asia,464,486,443,445,440,451,454,460,448,—,41.3,—,15501.59526,Upper middle income,..,..,92.6
+2009,United Kingdom,GBR,Europe & Central Asia,494,507,481,492,482,503,514,509,519,—,49.8,—,35029.99462,High Income,5.074319839,28.43834,77
+2009,United States,USA,North America,500,513,488,487,477,497,502,495,509,—,52,—,47099.98047,High Income,..,..,69.8
+2006,Selected countries and jurisdictions,,,485,505,466,490,485,496,495,494,496,—,48.5,—,,,,,
+2006,International Average (OECD),OECD,,485,505,466,490,485,496,495,494,496,—,48.5,—,,,,,
+2006,Australia,AUS,East Asia & Pacific,513,532,495,520,513,527,527,527,527,—,53,—,34290.52448,High Income,4.750199795,..,81.5
+2006,Austria,AUT,Europe & Central Asia,490,513,468,505,494,517,511,507,515,—,48.3,—,37616.74016,High Income,5.226520061,25.70922,82
+2006,Belgium,BEL,Europe & Central Asia,501,522,482,520,517,524,510,510,511,—,49.8,—,35216.64971,High Income,..,..,72.8
+2006,Brazil,BRA,Latin America & Caribbean,393,408,376,370,361,380,390,386,395,,41.1,,11642.44395,Upper middle income,,4.870600224,
+2006,B-S-J-G (China),CHN1,East Asia & Pacific,,,,,,,,,,,,,,,,,
+2006,B-S-J-Z (China),CHN2,East Asia & Pacific,,,,,,,,,,,,,,Upper middle income,,,
+2006,Canada,CAN,North America,527,543,511,527,520,534,534,532,536,—,53.5,—,37995.0048,High Income,..,..,79.4
+2006,Chile,CHL,Latin America & Caribbean,442,451,434,411,396,424,438,426,448,—,40.6,—,15753.96299,High Income,3.021529913,11.6756,..
+2006,Colombia,COL,Latin America & Caribbean,385,394,375,370,360,382,388,384,393,—,42.3,—,9035.566476,Upper middle income,3.916719913,..,#N/A
+2006,Czech Republic,CZE,Europe & Central Asia,483,509,463,510,504,514,513,510,515,—,48.2,—,23772.47213,High Income,4.217100143,21.09548,84.7
+2006,Denmark,DNK,Europe & Central Asia,494,509,480,513,508,518,496,491,500,—,49.4,—,37289.36184,High Income,7.729909897,33.52992,74.3
+2006,Estonia,EST,Europe & Central Asia,501,524,478,515,514,515,531,533,530,—,50.3,—,19310.00474,High Income,..,..,74.9
+2006,Finland,FIN,Europe & Central Asia,547,572,521,548,543,554,563,565,562,—,48.8,—,34413.57201,High Income,5.928380013,30.50341,84.6
+2006,France,FRA,Europe & Central Asia,488,505,470,496,492,499,495,494,497,—,48.6,—,32429.39271,High Income,..,27.19799,82.2
+2006,Germany,DEU,Europe & Central Asia,495,517,475,504,494,513,516,512,519,—,49,—,34119.12377,High Income,4.293960094,20.29257,78.2
+2006,Greece,GRC,Europe & Central Asia,460,488,432,459,457,462,473,479,468,—,48.3,—,28514.72598,High Income,..,..,92.8
+2006,Hong Kong,HKG,East Asia & Pacific,536,551,520,547,540,555,542,539,546,,42.8,,41697.07763,High Income,3.842789888,17.3331,
+2006,Hungary,HUN,Europe & Central Asia,482,503,463,491,486,496,504,501,507,—,47.8,—,18339.61807,High Income,5.296080112,22.7505,80
+2006,Iceland,ISL,Europe & Central Asia,484,509,460,506,508,503,491,494,488,—,53.9,—,39087.3572,High Income,7.299240112,21.98723,80.6
+2006,Indonesia,IDN,East Asia & Pacific,393,402,384,391,473,479,393,387,399,,37.6,,6708.575594,Upper middle income,,,
+2006,Ireland,IRL,Europe & Central Asia,517,534,500,501,496,507,508,509,508,—,49,—,44197.54977,High Income,4.545509815,21.55856,75.8
+2006,Israel,ISR,Middle East & North Africa,439,460,417,442,436,448,454,452,456,—,53.4,—,25665.06643,High Income,5.760499954,17.25575,#N/A
+2006,Italy,ITA,Europe & Central Asia,469,489,448,462,453,470,475,474,477,—,46.4,—,32414.46616,High Income,4.52545023,26.91962,89.4
+2006,Japan,JPN,East Asia & Pacific,498,513,483,523,513,533,531,530,533,—,50.3,—,33090.19626,High Income,3.329090118,..,..
+2006,Korea,KOR,East Asia & Pacific,556,574,539,547,543,552,522,523,521,—,50,—,26877.9921,High Income,..,..,#N/A
+2006,Latvia,LVA,Europe & Central Asia,479,504,454,486,484,489,490,493,486,—,48.5,—,15742.43171,High Income,4.71378994,17.3995,65.2
+2006,Lithuania,LTU,Europe & Central Asia,470,496,445,486,485,487,488,493,483,—,49.7,—,16481.7946,High Income,4.820549965,19.49586,76.7
+2006,Luxembourg,LUX,Europe & Central Asia,479,495,464,490,482,498,486,482,491,—,47.7,—,77938.20012,High Income,..,20.22111,90.6
+2006,Mexico,MEX,Latin America & Caribbean,410,427,393,406,401,410,410,406,413,—,41.9,—,13808.17762,Upper middle income,4.699920177,13.83766,..
+2006,Netherlands,NLD,Europe & Central Asia,507,519,495,531,524,537,525,521,528,—,51.5,—,40964.31464,High Income,5.044020176,..,88.8
+2006,New Zealand,NZL,East Asia & Pacific,521,539,502,522,517,527,530,532,528,—,51.6,—,27759.04625,High Income,5.95276022,..,76.3
+2006,Norway,NOR,Europe & Central Asia,484,508,462,490,487,493,487,489,484,—,53.1,—,54095.15569,High Income,6.382760048,25.36861,78.5
+2006,Poland,POL,Europe & Central Asia,508,528,487,495,491,500,498,496,500,—,44.4,—,15139.49933,High Income,5.205780029,22.87955,87.5
+2006,Portugal,PRT,Europe & Central Asia,472,488,455,466,459,474,474,472,477,—,41.7,—,24652.94997,High Income,4.907670021,31.53999,85.6
+2006,Russia,RUS,Europe & Central Asia,440,458,420,476,473,479,479,478,481,,50.7,,14912.23393,Upper middle income,3.866260052,,
+2006,Slovak Republic,SVK,Europe & Central Asia,466,488,446,492,485,499,488,485,491,—,47.2,—,18891.23977,High Income,3.707700014,14.46808,88.3
+2006,Slovenia,SVN,Europe & Central Asia,494,521,467,504,502,507,519,523,515,—,49.9,—,25689.39549,High Income,5.590660095,..,85.9
+2006,Spain,ESP,Europe & Central Asia,461,479,443,480,476,484,488,486,491,—,44.8,—,30683.16047,High Income,4.184820175,23.46748,88.2
+2006,Sweden,SWE,Europe & Central Asia,507,528,488,502,500,505,503,503,504,—,50.7,—,37684.65163,High Income,6.364290237,29.90281,78.2
+2006,Switzerland,CHE,Europe & Central Asia,499,515,484,530,523,536,512,509,514,—,49.2,—,45098.80792,High Income,4.9615798,23.84324,..
+2006,Thailand,THA,East Asia & Pacific,417,440,386,417,420,413,421,428,411,,36.6,,11024.84888,Upper middle income,4.05038023,,
+2006,Turkey,TUR,Europe & Central Asia,447,471,427,424,421,427,424,430,418,—,39.6,—,13619.17051,Upper middle income,2.750629902,..,91.4
+2006,United Kingdom,GBR,Europe & Central Asia,495,510,480,495,487,504,515,510,520,—,50.7,—,34761.16781,High Income,4.985310078,24.47537,75.2
+2006,United States,USA,North America,—,—,—,474,470,479,489,489,489,—,52.5,—,46298.73144,High Income,..,..,..
+2003,Selected countries and jurisdictions,,,494,512,477,499,494,505,—,—,—,—,48.8,—,,,,,
+2003,International Average (OECD),OECD,,494,512,477,499,494,505,—,—,—,—,48.8,—,,,,,
+2003,Australia,AUS,East Asia & Pacific,525,545,506,524,522,527,—,—,—,—,52.6,—,29732.1296,High Income,..,..,80.1
+2003,Austria,AUT,Europe & Central Asia,491,514,467,506,502,509,—,—,—,—,47.1,—,32109.13812,High Income,5.361830235,27.87828,81.2
+2003,Belgium,BEL,Europe & Central Asia,507,526,489,529,525,533,—,—,—,—,50.6,—,30899.06542,High Income,..,..,69.6
+2003,Brazil,BRA,Latin America & Caribbean,403,419,384,356,348,365,,,,,40.1,,9733.770816,Upper middle income,,,
+2003,B-S-J-G (China),CHN1,East Asia & Pacific,,,,,,,,,,,,,,,,,
+2003,B-S-J-Z (China),CHN2,East Asia & Pacific,,,,,,,,,,,,,,Upper middle income,,,
+2003,Canada,CAN,North America,528,546,514,532,530,541,—,—,—,—,52.6,—,32219.42875,High Income,..,..,..
+2003,Chile,CHL,Latin America & Caribbean,—,—,—,—,—,—,—,—,—,—,—,—,10841.32382,High Income,3.963459969,15.48508,..
+2003,Colombia,COL,Latin America & Caribbean,—,—,—,—,—,—,—,—,—,—,—,—,7319.543742,Upper middle income,4.325139999,..,#N/A
+2003,Czech Republic,CZE,Europe & Central Asia,489,504,473,516,509,524,—,—,—,—,50.1,—,19426.38627,High Income,4.136429787,21.30214,..
+2003,Denmark,DNK,Europe & Central Asia,492,505,479,514,506,523,—,—,—,—,49.3,—,30786.72547,High Income,8.121930122,33.90776,73.3
+2003,Estonia,EST,Europe & Central Asia,—,—,—,—,—,—,—,—,—,—,—,—,13123.02805,High Income,5.271170139,26.16631,..
+2003,Finland,FIN,Europe & Central Asia,543,565,521,544,541,548,—,—,—,—,50.2,—,29019.77327,High Income,6.167439938,25.99888,..
+2003,France,FRA,Europe & Central Asia,496,514,476,511,507,515,—,—,—,—,48.7,—,28141.91485,High Income,..,29.88208,..
+2003,Germany,DEU,Europe & Central Asia,491,513,471,503,499,508,—,—,—,—,49.3,—,29875.49426,High Income,..,..,..
+2003,Greece,GRC,Europe & Central Asia,472,490,453,445,436,455,—,—,—,—,46.9,—,23870.50815,High Income,3.429339886,19.13739,93.5
+2003,Hong Kong,HKG,East Asia & Pacific,510,525,494,550,548,552,,,,,41.1,,31165.23153,High Income,4.285299778,19.06971,
+2003,Hungary,HUN,Europe & Central Asia,482,498,467,490,486,494,—,—,—,—,48.6,—,15464.41134,High Income,5.791150093,26.08295,..
+2003,Iceland,ISL,Europe & Central Asia,492,522,464,515,523,508,—,—,—,—,53.7,—,32619.86491,High Income,7.254779816,20.97958,..
+2003,Indonesia,IDN,East Asia & Pacific,382,394,369,360,358,362,,,,,33.6,,5465.264202,Upper middle income,3.217999935,,
+2003,Ireland,IRL,Europe & Central Asia,515,530,501,503,495,510,—,—,—,—,48.3,—,36238.34818,High Income,4.20554018,18.51165,81.1
+2003,Israel,ISR,Middle East & North Africa,—,—,—,—,—,—,—,—,—,—,—,—,23818.48605,High Income,6.34953022,18.324,#N/A
+2003,Italy,ITA,Europe & Central Asia,476,495,455,466,457,475,—,—,—,—,46.8,—,29165.04967,High Income,4.541790009,27.12478,..
+2003,Japan,JPN,East Asia & Pacific,498,509,487,534,530,539,—,—,—,—,50,—,28924.68195,High Income,3.523689985,..,..
+2003,Korea,KOR,East Asia & Pacific,534,547,525,542,528,552,—,—,—,—,46.3,—,22074.01428,High Income,..,..,#N/A
+2003,Latvia,LVA,Europe & Central Asia,491,509,470,483,482,485,—,—,—,—,50.3,—,11011.10906,High Income,5.074510098,22.93571,..
+2003,Lithuania,LTU,Europe & Central Asia,—,—,—,—,—,—,—,—,—,—,—,—,12067.90091,High Income,5.108510017,19.6426,..
+2003,Luxembourg,LUX,Europe & Central Asia,479,496,463,493,485,502,—,—,—,—,48.2,—,60040.23125,High Income,..,23.40646,86.4
+2003,Mexico,MEX,Latin America & Caribbean,400,410,389,385,380,391,—,—,—,—,40.1,—,11482.44959,Upper middle income,5.072579861,14.97844,..
+2003,Netherlands,NLD,Europe & Central Asia,513,524,503,538,535,540,—,—,—,—,51.3,—,34112.31879,High Income,5.040420055,..,..
+2003,New Zealand,NZL,East Asia & Pacific,522,535,508,523,516,531,—,—,—,—,51.5,—,23968.39735,High Income,6.437530041,..,..
+2003,Norway,NOR,Europe & Central Asia,500,525,475,495,492,498,—,—,—,—,54.6,—,38551.55411,High Income,7.416359901,31.71205,80.8
+2003,Poland,POL,Europe & Central Asia,497,516,477,490,487,493,—,—,—,—,45,—,12257.33485,High Income,5.332180023,19.68689,..
+2003,Portugal,PRT,Europe & Central Asia,478,495,459,466,460,472,—,—,—,—,43.1,—,20828.32592,High Income,5.281529903,29.5211,..
+2003,Russia,RUS,Europe & Central Asia,442,481,443,468,463,473,,,,,49.9,,9254.537201,Upper middle income,3.678539991,,
+2003,Slovak Republic,SVK,Europe & Central Asia,469,486,453,498,489,507,—,—,—,—,48.8,—,14165.61206,High Income,4.209569931,17.10819,..
+2003,Slovenia,SVN,Europe & Central Asia,—,—,—,—,—,—,—,—,—,—,—,—,21089.30425,High Income,5.70333004,24.32286,..
+2003,Spain,ESP,Europe & Central Asia,481,500,461,485,481,490,—,—,—,—,44.3,—,25018.76109,High Income,4.173429966,23.18286,..
+2003,Sweden,SWE,Europe & Central Asia,514,533,496,509,506,512,—,—,—,—,50.6,—,31780.11504,High Income,6.791429996,24.34073,..
+2003,Switzerland,CHE,Europe & Central Asia,499,517,482,527,518,535,—,—,—,—,49.3,—,37713.96138,High Income,5.523759842,26.6065,..
+2003,Thailand,THA,East Asia & Pacific,420,448,406,417,419,415,,,,,36,,8863.741036,Upper middle income,3.725610018,,
+2003,Turkey,TUR,Europe & Central Asia,441,459,426,423,415,430,—,—,—,—,41.6,—,9604.02371,Upper middle income,2.876630068,..,..
+2003,United Kingdom,GBR,Europe & Central Asia,507,520,492,508,505,512,—,—,—,—,49.6,—,30262.05552,High Income,4.804669857,25.01142,..
+2003,United States,USA,North America,495,511,479,483,480,486,—,—,—,—,54.5,—,39496.48588,High Income,..,..,..
+2000,Selected countries and jurisdictions,,,493,510,478,—,—,—,—,—,—,—,48.7,—,,,,,
+2000,International Average (OECD),OECD,,493,510,478,—,—,—,—,—,—,—,48.7,—,,,,,
+2000,Australia,AUS,East Asia & Pacific,528,546,513,—,—,—,—,—,—,—,52.2,—,26318.41621,High Income,4.891469955,..,
+2000,Austria,AUT,Europe & Central Asia,492,509,476,—,—,—,—,—,—,—,48.6,—,29387.0283,High Income,5.588809967,27.16046,
+2000,Belgium,BEL,Europe & Central Asia,507,525,492,—,—,—,—,—,—,—,48.9,—,27794.97786,High Income,..,..,
+2000,Brazil,BRA,Latin America & Caribbean,396,404,388,,,,,,,,43.9,,9060.786399,Upper middle income,3.948930025,,
+2000,B-S-J-G (China),CHN1,East Asia & Pacific,,,,,,,,,,,,,,,,,
+2000,B-S-J-Z (China),CHN2,East Asia & Pacific,,,,,,,,,,,,,,Upper middle income,,,
+2000,Canada,CAN,North America,534,551,519,—,—,—,—,—,—,—,52.8,—,29265.72813,High Income,5.441999912,..,
+2000,Chile,CHL,Latin America & Caribbean,410,421,396,—,—,—,—,—,—,—,39.9,—,9553.566523,High Income,3.77583003,14.26927,
+2000,Colombia,COL,Latin America & Caribbean,—,—,—,—,—,—,—,—,—,—,—,—,6690.373244,Upper middle income,3.511209965,12.89406,
+2000,Czech Republic,CZE,Europe & Central Asia,492,510,473,—,—,—,—,—,—,—,48.3,—,16194.62811,High Income,3.650890112,19.44741,
+2000,Denmark,DNK,Europe & Central Asia,497,510,485,—,—,—,—,—,—,—,49.7,—,28668.86342,High Income,8.084340096,37.21646,
+2000,Estonia,EST,Europe & Central Asia,—,—,—,—,—,—,—,—,—,—,—,—,9437.242789,High Income,5.332429886,..,
+2000,Finland,FIN,Europe & Central Asia,546,571,520,—,—,—,—,—,—,—,50,—,26794.75325,High Income,5.709300041,23.22704,
+2000,France,FRA,Europe & Central Asia,505,519,490,—,—,—,—,—,—,—,48.3,—,26100.3972,High Income,..,28.40943,
+2000,Germany,DEU,Europe & Central Asia,484,502,468,—,—,—,—,—,—,—,48.8,—,27209.22724,High Income,..,..,
+2000,Greece,GRC,Europe & Central Asia,474,493,456,—,—,—,—,—,—,—,47.8,—,19523.51376,High Income,3.230190039,19.2162,
+2000,Hong Kong,HKG,East Asia & Pacific,525,533,518,,,,,,,,42.3,,28253.19938,High Income,,,
+2000,Hungary,HUN,Europe & Central Asia,480,496,465,—,—,—,—,—,—,—,49.5,—,11857.61969,High Income,4.868400097,20.04444,
+2000,Iceland,ISL,Europe & Central Asia,507,528,488,—,—,—,—,—,—,—,52.7,—,29717.56869,High Income,6.447169781,18.31782,
+2000,Indonesia,IDN,East Asia & Pacific,371,380,360,,,,,,,,36.4,,4743.944694,Upper middle income,,,
+2000,Ireland,IRL,Europe & Central Asia,527,542,513,—,—,—,—,—,—,—,48.4,—,30184.95981,High Income,4.136640072,15.881,
+2000,Israel,ISR,Middle East & North Africa,452,459,444,—,—,—,—,—,—,—,55.3,—,24928.94548,High Income,6.118020058,17.80257,
+2000,Italy,ITA,Europe & Central Asia,487,507,469,—,—,—,—,—,—,—,47.1,—,27082.57698,High Income,4.291079998,25.61669,
+2000,Japan,JPN,East Asia & Pacific,522,537,507,—,—,—,—,—,—,—,‡,—,26838.69136,High Income,3.516170025,..,
+2000,Korea,KOR,East Asia & Pacific,525,533,519,—,—,—,—,—,—,—,42.8,—,18551.26112,High Income,..,..,
+2000,Latvia,LVA,Europe & Central Asia,458,485,432,—,—,—,—,—,—,—,50.1,—,8017.565047,High Income,5.290649891,22.86299,
+2000,Lithuania,LTU,Europe & Central Asia,—,—,—,—,—,—,—,—,—,—,—,—,8459.605057,High Income,..,..,
+2000,Luxembourg,LUX,Europe & Central Asia,441,456,429,—,—,—,—,—,—,—,44.8,—,55361.9323,High Income,..,..,
+2000,Mexico,MEX,Latin America & Caribbean,422,432,411,—,—,—,—,—,—,—,42.5,—,11089.81343,Upper middle income,3.992439985,..,
+2000,Netherlands,NLD,Europe & Central Asia,‡,‡,‡,—,—,—,—,—,—,—,‡,—,31882.75531,High Income,4.585120201,..,
+2000,New Zealand,NZL,East Asia & Pacific,529,553,507,—,—,—,—,—,—,—,52.2,—,21519.15723,High Income,..,..,
+2000,Norway,NOR,Europe & Central Asia,505,529,486,—,—,—,—,—,—,—,53.9,—,36950.32475,High Income,6.467269897,..,
+2000,Poland,POL,Europe & Central Asia,479,497,461,—,—,—,—,—,—,—,46,—,10655.42549,High Income,4.993619919,..,
+2000,Portugal,PRT,Europe & Central Asia,470,482,458,—,—,—,—,—,—,—,43.8,—,18883.74321,High Income,5.163849831,27.45393,
+2000,Russia,RUS,Europe & Central Asia,462,481,443,,,,,,,,49.4,,6825.391511,Upper middle income,2.93979001,,
+2000,Slovak Republic,SVK,Europe & Central Asia,—,—,—,—,—,—,—,—,—,—,—,—,11380.83103,High Income,3.864680052,15.85101,
+2000,Slovenia,SVN,Europe & Central Asia,—,—,—,—,—,—,—,—,—,—,—,,18007.96618,High Income,..,..,
+2000,Spain,ESP,Europe & Central Asia,493,505,481,—,—,—,—,—,—,45,—,,21592.33515,High Income,4.166049957,22.833,
+2000,Sweden,SWE,Europe & Central Asia,516,536,499,—,—,—,—,—,—,50.6,—,,29629.37542,High Income,6.740149975,24.42232,
+2000,Switzerland,CHE,Europe & Central Asia,494,510,480,—,—,—,—,—,—,49.2,—,,35763.01086,High Income,4.781400204,24.66126,
+2000,Thailand,THA,East Asia & Pacific,431,448,406,,,,,,,,33,,7302.891417,Upper middle income,5.25345993,,
+2000,Turkey,TUR,Europe & Central Asia,—,—,—,—,—,—,—,—,—,—,—,,9586.027444,Upper middle income,2.529079914,..,
+2000,United Kingdom,GBR,Europe & Central Asia,523,537,512,—,—,—,—,—,—,51.3,—,,26413.43354,High Income,4.031189919,21.87505,
+2000,United States,USA,North America,504,518,490,—,—,—,—,—,—,52.4,—,,36334.90878,High Income,..,..,
